@@ -5,3 +5,8 @@
 3-"-"-"nagetive"
 4-"+"-"math plus"
 5-"-"-"math decrease"
+6-object
+7-me
+8-you
+9-it/he/she
+10-@-attribute
